@@ -27,7 +27,7 @@ export default function Campaigns() {
       date: "2020–2021",
       description:
         "Phase 1: Distributed 5,000+ masks and kits. Phase 2: Connected 120+ farmers with city markets & delivered 3,500+ food kits.",
-      image: "/Food3.jpeg?height=300&width=400",
+      image: "/food3.jpeg?height=300&width=400",
       color: "blue",
     },
     {

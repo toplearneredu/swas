@@ -242,22 +242,6 @@ export default function ContactPage() {
                 </Card>
               </div>
             </div>
-
-            {/* Map Placeholder */}
-            <div className="mt-16">
-              <Card className="border-purple-500/20 bg-gray-800/50 backdrop-blur-sm">
-                <CardContent className="p-0">
-                  <div className="h-80 bg-gradient-to-br from-purple-500/10 to-blue-500/10 rounded-lg flex items-center justify-center">
-                    <div className="text-center">
-                      <MapPin className="h-16 w-16 text-purple-400 mx-auto mb-6" />
-                      <h3 className="text-2xl font-bold text-white mb-2">Find Us Here</h3>
-                      <p className="text-gray-300 font-semibold">Royal Heights, Ranchi, Jharkhand</p>
-                      <p className="text-gray-400 text-sm mt-2">Interactive map will be integrated here</p>
-                    </div>
-                  </div>
-                </CardContent>
-              </Card>
-            </div>
           </div>
         </div>
       </section>

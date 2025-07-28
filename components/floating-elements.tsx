@@ -9,7 +9,7 @@ export default function FloatingElements() {
 
   const openWhatsApp = () => {
     const message = encodeURIComponent("Hello! I'm interested in joining Swawlambi Foundation.")
-    const whatsappUrl = `https://wa.me/917004776949?text=${message}`
+    const whatsappUrl = `https://wa.me/919304412419?text=${message}`
     window.open(whatsappUrl, "_blank")
   }
 

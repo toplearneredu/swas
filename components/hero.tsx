@@ -37,7 +37,7 @@ export default function Hero() {
             Caring for minds, bodies, and Earth we share
           </p>
           <p className="text-lg md:text-xl text-gray-200 mb-12 max-w-3xl mx-auto leading-relaxed">
-            We are a youth-led NGO creating grassroots impact in villages and urban zones across Jharkhand.
+            We are NGO creating grassroots impact in villages and urban zones across Jharkhand.
           </p>
 
           {/* Call-to-Action Buttons */}

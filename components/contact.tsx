@@ -12,13 +12,13 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Phone",
-      content: "+91 70047 76949",
+      content: "+91 9304412419",
       color: "blue",
     },
     {
       icon: Mail,
       title: "Email",
-      content: "raty007@gmail.com",
+      content: "info.swawlambi@gmail.com",
       color: "orange",
     },
     {

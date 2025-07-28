@@ -169,7 +169,7 @@ export default function Gallery() {
                     const message = encodeURIComponent(
                       "Hello! I'd like to contribute photos to Swawlambi Foundation's gallery.",
                     )
-                    window.open(`https://wa.me/917004776949?text=${message}`, "_blank")
+                    window.open(`https://wa.me/919304412419?text=${message}`, "_blank")
                   }}
                 >
                   Share Your Photos

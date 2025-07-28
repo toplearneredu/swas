@@ -26,7 +26,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-gray-300 leading-relaxed">
-              A youth-led NGO creating grassroots impact in villages and urban zones across Jharkhand. Together, we
+              A NGO creating grassroots impact in villages and urban zones across Jharkhand. Together, we
               plant hope wherever roots are needed.
             </p>
           </div>
@@ -76,11 +76,11 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-300 text-sm">+91 70047 76949</span>
+                <span className="text-gray-300 text-sm">+91 9304412419</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-orange-400" />
-                <span className="text-gray-300 text-sm">raty007@gmail.com</span>
+                <span className="text-gray-300 text-sm">info.swawlambi@gmail.com</span>
               </div>
             </div>
 

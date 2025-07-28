@@ -18,15 +18,15 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: "Phone",
-      content: "+91 70047 76949",
+      content: "+91 9304412419",
       color: "blue",
     },
     {
       icon: Mail,
       title: "Email",
-      content: "raty007@gmail.com",
+      content: "info.swawlambi@gmail.com",
       color: "orange",
-      link: "mailto:raty007@gmail.com",
+      link: "mailto:info.swawlambi@gmail.com",
     },
     {
       icon: Facebook,
@@ -154,7 +154,7 @@ export default function ContactPage() {
                     <input
                       type="email"
                       className="w-full px-4 py-3 bg-gray-700/50 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:border-purple-500 transition-colors"
-                      placeholder="your.email@example.com"
+                      placeholder="info.swawlambi@gmail.com"
                     />
                   </div>
 
@@ -232,7 +232,7 @@ export default function ContactPage() {
                         const message = encodeURIComponent(
                           "Hello! I'm interested in learning more about Swawlambi Foundation.",
                         )
-                        window.open(`https://wa.me/917004776949?text=${message}`, "_blank")
+                        window.open(`https://wa.me/919304412419?text=${message}`, "_blank")
                       }}
                     >
                       <Phone className="mr-2 h-5 w-5" />
